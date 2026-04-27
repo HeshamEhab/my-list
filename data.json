@@ -6,7 +6,7 @@
     "d": "This is option D"
   },
   "list_2": {
-    "a": "First choice",
-    "b": "Second choice",
+    "a": "Test First choice",
+    "b": null,
     "c": "Third choice"
   }}
