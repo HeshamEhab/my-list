@@ -1,0 +1,12 @@
+{
+  "list_1": {
+    "a": "This is option A",
+    "b": "This is option B",
+    "c": "This is option C",
+    "d": "This is option D"
+  },
+  "list_2": {
+    "a": "First choice",
+    "b": "Second choice",
+    "c": "Third choice"
+  }}
