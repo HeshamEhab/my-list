@@ -1,9 +1,6 @@
 {
   "list_1": {
-    "a": "This is option A",
-    "b": "This is option B",
-    "c": "This is option C",
-    "d": "This is option D"
+    "1": "Live Chat"
   },
   "list_2": {
     "a": "Test First choice",
