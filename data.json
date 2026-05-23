@@ -1,6 +1,5 @@
 {
   "list_1": {
-    "1": "Live Chat",
     "2": "Raza",
     "3": "Sehat Connect",
     "4": "Waaz Istibsaar",
@@ -8,7 +7,8 @@
     "6": "Transportation",
     "7": "Registration",
     "9": "Pass Request",
-    "10": "City Selection"
+    "10": "City Selection",
+    "1": "Live Chat"
   },
   "list_2": {
     "a": "Test First choice",
