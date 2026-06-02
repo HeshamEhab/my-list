@@ -2,10 +2,11 @@
   "message": "test 3",
   "list_1": {
     "10": "City Transfer Request",
-    "1": "Live Chat"
+    "4": "Query"
   },
   "list_2": {
     "a": "Test First choice",
+    "1": "Live Chat"
     "10": "City Transfer Request",
     "b": null,
     "10": "City Transfer Request",
