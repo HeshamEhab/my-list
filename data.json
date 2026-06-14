@@ -1,6 +1,6 @@
 {
   "message": "test 3",
-  "list_1": 
+  "list_1": {
    "2": "Seating preferences",
    "1": "Live Chat"
   },
